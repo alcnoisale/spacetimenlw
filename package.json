@@ -1,0 +1,27 @@
+{
+  "name": "spacetimenlw",
+  "version": "1.0.0",
+  "description": "estudos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcnoisale/spacetimenlw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alcnoisale/spacetimenlw/issues"
+  },
+  "homepage": "https://github.com/alcnoisale/spacetimenlw#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.1",
+    "tsx": "^3.12.7"
+  }
+}
